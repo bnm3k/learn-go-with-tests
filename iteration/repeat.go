@@ -1,4 +1,4 @@
-package iteration
+package c4
 
 import "strings"
 

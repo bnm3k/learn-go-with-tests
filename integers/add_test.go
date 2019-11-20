@@ -1,4 +1,4 @@
-package integers
+package c3
 
 import (
 	"fmt"

@@ -1,4 +1,4 @@
-package arrays
+package c5
 
 // Sum takes in a collection of ints and returns its sum
 func Sum(numbers []int) (sum int) {

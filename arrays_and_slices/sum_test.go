@@ -1,4 +1,4 @@
-package arrays
+package c5
 
 import (
 	"reflect"
